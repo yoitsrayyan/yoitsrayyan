@@ -1,5 +1,5 @@
 ```text
-Software Engineering student | Apprentice Software Necromancer
+Software Engineer | Game Dev
 
                            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⢇⡀
                            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠿⠸⢇⡀
