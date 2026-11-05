@@ -1,5 +1,5 @@
 ```text
-Software Engineer | Game Dev
+Software Engineer | C++, Python, Go
 
                            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⢇⡀
                            ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠿⠸⢇⡀
